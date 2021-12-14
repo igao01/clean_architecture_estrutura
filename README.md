@@ -1,6 +1,7 @@
 # clean_architeture_estrutura
 
-A new Flutter project.
+Este não é um projeto é somente um breve resumo da estrutura de diretórios
+da utilização da clean architecture em Flutter
 
 ## Getting Started
 
